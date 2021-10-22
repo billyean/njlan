@@ -1,0 +1,20 @@
+njlan/.idea
+### Scala template
+njlan/*.class
+njlan/*.log
+
+# sbt specific
+njlan/.cache
+njlan/.history
+njlan/.lib/
+njlan/dist/*
+njlan/target/
+njlan/lib_managed/
+njlan/src_managed/
+njlan/project/boot/
+njlan/project/plugins/project/
+
+# Scala-IDE specific
+njlan/.scala_dependencies
+njlan/.worksheet
+
